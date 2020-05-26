@@ -20,7 +20,7 @@ fi
     
 VERSION=$1
 TAG=v$VERSION
-SOURCE="https://github.com/googlei18n/libphonenumber/"
+SOURCE="https://github.com/exthmui/libphonenumber/"
 DIR=$ANDROID_BUILD_TOP/external/libphonenumber
 
 tmp=$(mktemp -d)
